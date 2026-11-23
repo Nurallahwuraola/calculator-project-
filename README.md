@@ -12,7 +12,7 @@ Responsive calculator built with HTML, CSS (Flex Grid) and JavaScript
 - Responsive Design
 
 ## Live Link
-https://nurallahwuraola.github.io/calculator/
+https://nurallahwuraola.github.io/calculator-project-/
 
 ## Sections
 Display, Number Buttons, Operators, Clear, Equal
